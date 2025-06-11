@@ -3,7 +3,7 @@ package servicios;
 /**
  * @author jmormez
  * 
- * Crea una aplicacion libre en java que cumpla los siguientes requisitos:
+ * Crear una aplicacion libre en  que cumpla los siguientes requisitos:
  * Operacion de alta de un elemento sobre una lista, operacion de baja de un
  * elemento sobre una lista en base a un campo de busqueda, uso de un fichero
  * como base de datos usando como delimitador el caracter punto y coma(;) El
@@ -18,6 +18,7 @@ package servicios;
  * las diferentes opciones y la traza de errores.
  */
 public class MenuImplementacion implements MenuInterfaz {
+
 	
 	public void mostrarMenu() {
 		
